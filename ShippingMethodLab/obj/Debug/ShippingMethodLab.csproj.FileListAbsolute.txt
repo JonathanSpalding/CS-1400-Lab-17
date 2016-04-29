@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\bin\Debug\ShippingMethodLab.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\bin\Debug\ShippingMethodLab.exe
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\bin\Debug\ShippingMethodLab.pdb
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.exe
+c:\users\jon\documents\visual studio 2015\Projects\ShippingMethodLab\ShippingMethodLab\obj\Debug\ShippingMethodLab.pdb
